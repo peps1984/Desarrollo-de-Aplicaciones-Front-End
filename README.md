@@ -1,6 +1,6 @@
 # Ejercicio Práctico: Desarrollo de la Página Web de un Hospital
 
-Se generan 3 archivos html:
+Se generan 3 archivos:
 1. index.html
 2. equipo.html
 3. contacto.html
