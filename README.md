@@ -5,6 +5,7 @@ Se generan 3 archivos html:
 2. equipo.html
 3. contacto.html
 
+Al abrir index se podrá visualizar una sección donde se encontrarán los links para las páginas de equipo médico y la información de contacto.
 
 
 
